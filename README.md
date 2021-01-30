@@ -5,8 +5,14 @@ The main task is to prepare a summary DataFrame of the ride-sharing data by city
 
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
+### Loading and Reading CSV files. 
+There were two csv files loaded in Resources folder: city_data and ride_data.
 
+### Merge the DataFrames.
 
+Combine the data into a single dataset. Merge ride_data_df and city_data_df into pyber_data_df.
+
+![Combine_the_data](Combine_the_data.png)
 
 
 
