@@ -12,8 +12,7 @@ There were two csv files loaded in Resources folder: city_data and ride_data.
 
 Combine the data into a single dataset. Merge ride_data_df and city_data_df into pyber_data_df.
 
-![Combine_the_data](Combine_the_data.png)
-
+!(Combine_the_data)[Combine_the_data.png]
 
 
 
