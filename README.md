@@ -5,14 +5,28 @@ The main task is to prepare a summary DataFrame of the ride-sharing data by city
 
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-### Loading and Reading CSV files. 
+### 1. Loading and Reading CSV files. 
 There were two csv files loaded in Resources folder: city_data and ride_data.
 
-### Merge the DataFrames.
+### 2. Merge the DataFrames.
 
 Combine the data into a single dataset. Merge ride_data_df and city_data_df into pyber_data_df.
 
-!(Combine_the_data)[Combine_the_data.png]
+![Combine_the_data](Combine_the_data.png)
+
+### 3. Get a Summary DataFrame.
+
+I found the total number of rides, total number of drivers, and the total fares for each city type. Then, I did calculate the average fare per ride and per driver for each city type. 
+
+Please see below:
+
+Total number of rides:
+
+![total_rides](total_rides.png)
+
+Total number of drivers:
+
+![total_drivers](total_drivers.png)
 
 
 
