@@ -43,7 +43,7 @@ The average fare per driver:
 
 PyBer summary DataFrame:
 
-![summary01](summary01.png)
+![total](total.png)
 
 The differences in ride-sharing data among the different city types:
 
