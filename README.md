@@ -16,7 +16,7 @@ Combine the data into a single dataset. Merge ride_data_df and city_data_df into
 
 ### 3. Get a Summary DataFrame.
 
-I found the total number of rides, total number of drivers, and the total fares for each city type. Then, I did calculate the average fare per ride and per driver for each city type. 
+I found the total number of rides, total number of drivers, and the total fares for each city type. 
 
 Please see below:
 
@@ -28,7 +28,21 @@ Total number of drivers:
 
 ![total_drivers](total_drivers.png)
 
+Total amount of fares for each city type:
 
+![total_amount_fares](total_amount_fares.png)
+
+Then, I calculated the average fare per ride and per driver for each city type. 
+
+The average fare per ride:
+
+![average_fare_per_ride](average_fare_per_ride.png)
+
+The average fare per driver:
+
+![average_fare_per_driver](average_fare_per_driver.png)
+
+PyBer summary DataFrame:
 
 
 
