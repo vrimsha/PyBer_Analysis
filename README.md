@@ -43,8 +43,6 @@ The average fare per driver:
 
 PyBer summary DataFrame:
 
-![pyber_sum_fares_week](pyber_sum_fares_week.png)
-
 ![summary01](summary01.png)
 
 The differences in ride-sharing data among the different city types:
@@ -62,8 +60,10 @@ Urban had the most successful data results. It had the largest number of drivers
 
 My three business recommendations to the CEO for addressing disparities among the city types are:
 
-1.
-2.
-3.
+1. Investigate Rural city type. Why the total amount of fares so low? There might be lack of promotion of PyBer services in Rural city types compare to bigger cities.
+
+2. Increase a price per ride during high peak season in each city types in order to make some profit.
+
+3. Create new services: food, grocery delivery, carpool and etc. in order to provide more work rides for current drivers. 
 
 
