@@ -55,9 +55,15 @@ Suburban city type had more drivers and rides than in Rural, 490 drivers with 62
 
 Urban had the most successful data results. It had the largest number of drivers 2,405 with total rides 1,625. It is the largest market with the lowest average fare per ride $24.53 and average per driver $16.57. It had high peak season in February and March.
 
-![analysis/PyBer_fare_summary](PyBer_fare_summary.png)
+![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary: 
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+My three business recommendations to the CEO for addressing disparities among the city types are:
+
+1.
+2.
+3.
+
+
